@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Tauri, Rust and SvelteKit**
 
-- 📫 How to reach me **theo.kanin@gmail.com**
+- 📫 How to reach me: **theo.kanin@gmail.com**
 
-- 📄 My CV is availaible at [https://kanin.fr/cv](https://kanin.fr/cv)
+- 📄 My CV is availaible at: [https://kanin.fr/cv](https://kanin.fr/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
