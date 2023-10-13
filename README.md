@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fedor</h1>
 <h3 align="center">A developer and a student at Czech Technical University</h3>
 
-- 🔭 I’m currently working on [Cubich minecraft Launcher](https://github.com/fedorkanin/cubich_launcher_frontend)
+- 🔭 I’m currently working on [Cubichi minecraft Launcher](https://github.com/CubichiDev/cubichi_launcher_client)
 
 - 🌱 I’m currently learning **Tauri, Rust and SvelteKit**
 
