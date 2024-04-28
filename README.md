@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fedor</h1>
-<h3 align="center">A developer at CDN77 and a student at Czech Technical University</h3>
+<h3 align="center">A developer at CDN77 and a student at Czech Technical University.</h3>
 
-- 🔭 I’m currently working on [Cubichi minecraft Launcher](https://github.com/CubichiDev/cubichi_launcher_client)
-
-- 🌱 I’m currently learning **Tauri, Rust and SvelteKit**
+- 💼 Working at [CDN77](https://www.cdn77.com/).
 
 - 📫 How to reach me: **theo.kanin@gmail.com**
 
