@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **theo.kanin@gmail.com**
 
-- 📄 My CV is availaible at: [https://kanin.fr/cv.pdf](https://kanin.fr/cv.pdf)
+- 📜 My CV is availaible at: [https://kanin.fr/cv.pdf](https://kanin.fr/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
