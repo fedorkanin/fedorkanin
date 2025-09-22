@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fedor</h1>
-<h3 align="center">A developer at CDN77 and a student at Czech Technical University.</h3>
+<h3 align="center">A developer at CDN77 and a master's AI student at Charles University in Prague.</h3>
 
 - 💼 Working at [CDN77](https://www.cdn77.com/).
 
-- 📫 How to reach me: **theo.kanin@gmail.com**
+- 📫 If you prefer email communication: **theo.kanin@gmail.com**
 
 - 📜 My CV is availaible at: [https://kanin.fr/cv.pdf](https://kanin.fr/cv.pdf)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other ways to reach me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/12870671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12870671" height="30" width="40" /></a>
 <a href="https://fb.com/fedor.kanin.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fedor.kanin.1" height="30" width="40" /></a>
